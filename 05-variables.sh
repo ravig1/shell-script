@@ -1,6 +1,7 @@
 #!/bin/bash
 
 # read -s is used to not echo input coming from a terminal 
+# this is used in production passwords
 
 echo "Please enter your username:: "
 
